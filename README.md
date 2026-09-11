@@ -1,4 +1,4 @@
-# NodeGoat TEST 2 July 28, 2026 
+# NodeGoat TEST 2 Sept 11, 2026 
    
 Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. This project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
      
